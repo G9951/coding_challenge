@@ -1,0 +1,74 @@
+* {
+    margin:auto
+}
+
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container {
+    background-color: rgba(00, 00, 00, 0.5);
+    margin: 100px;
+    border-radius: 10px 10px 10px 10px;
+    padding: 70px;
+}
+
+header{
+    text-align: center;
+    color: lime;
+}
+
+#logo {
+    width: 200px;
+}
+
+nav {
+    background-color: lime;
+    padding: 10px;
+    width: 850px;
+}
+
+main {
+    margin-left: 250px;
+    margin-top: 30px;
+    color: white;
+}
+
+.monopattino {
+    padding-bottom: 20px;
+}
+
+.nome-monopattino {
+    font-size: 25px;
+}
+
+#carica {
+    background: rgb(216, 121, 84) solid;
+    width: 1000px;
+}
+
+#rettangolo1 {
+    background-color: rgb(238, 152, 81);
+    width: 300px;
+    height: 30px;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 0px;
+}
+
+#rettangolo2 {
+    background-color: green;
+    width: 500px;
+    height: 30px;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 0px;
+}
+
+#rettangolo3 {
+    background-color: rgb(194, 8, 33);
+    width: 150px;
+    height: 30px;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 0px;
+}
